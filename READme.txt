@@ -1,0 +1,5 @@
+Nama 	: Ahmad sanudin
+Nim	    : 181011450122
+Kelas	: 06TPLM005
+
+UAS_KECERDASANBUATAN_
